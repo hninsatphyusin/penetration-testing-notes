@@ -13,15 +13,548 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Gathering/Information Gathering.md",
+                "file": "1 Information Gathering/1 Information Gathering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Information Gathering"
+              "title": "1 Information Gathering"
+            }
+          },
+          {
+            "id": "778dff1c1a47479b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assets/Assets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assets"
+            }
+          },
+          {
+            "id": "5c67278d4013ecdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Exploitation/Service Exploitation/Services/Services.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Services"
+            }
+          },
+          {
+            "id": "231d8f100fdb6079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Exploitation/Active Directory Attacks/PetitPotam.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PetitPotam"
+            }
+          },
+          {
+            "id": "5b98dd9b4df69870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Post-Exploitation/Linux Post Exploitation/File Transfer/Code Download & Upload.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Code Download & Upload"
+            }
+          },
+          {
+            "id": "b7db055b67ca04dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Post-Exploitation/Windows Post Exploitation/File Transfer/File Encryption.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "File Encryption"
+            }
+          },
+          {
+            "id": "4ddad7c95f9a44e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Post-Exploitation/Tools/John The Ripper/John The Ripper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "John The Ripper"
+            }
+          },
+          {
+            "id": "aa6c5a018ec45ff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Post-Exploitation/Tools/John The Ripper/John The Ripper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "John The Ripper"
+            }
+          },
+          {
+            "id": "44523fde50509cc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Linux Lateral Movement/Kerberos Pass the Ticket/Kerberos Pass the Ticket.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kerberos Pass the Ticket"
+            }
+          },
+          {
+            "id": "3987db1a07715a63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Linux Lateral Movement/Kerberos Pass the Ticket/CCache Files.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CCache Files"
+            }
+          },
+          {
+            "id": "aa2c08bf5bdc1ab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Linux Lateral Movement/Kerberos Pass the Ticket/KeyTab Files.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KeyTab Files"
+            }
+          },
+          {
+            "id": "4a40629249d61537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Linux Lateral Movement/Kerberos Pass the Ticket/Linikatz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linikatz"
+            }
+          },
+          {
+            "id": "985099714f57e374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Linux Lateral Movement/Kerberos Pass the Ticket/CCache Abuse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CCache Abuse"
+            }
+          },
+          {
+            "id": "9ecdccd17f172fd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Linux Lateral Movement/Kerberos Pass the Ticket/Kerberos Pass the Ticket.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kerberos Pass the Ticket"
+            }
+          },
+          {
+            "id": "58b6fe4229c6bb18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Pivoting/Pivoting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pivoting"
+            }
+          },
+          {
+            "id": "2f26a8a4cea2ca61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Pivoting/Pivoting Recon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pivoting Recon"
+            }
+          },
+          {
+            "id": "263f5a49dfca0d86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Pivoting/Local Port Forwarding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Local Port Forwarding"
+            }
+          },
+          {
+            "id": "3d6f55721a609141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Pivoting/Dynamic Port Forwarding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dynamic Port Forwarding"
+            }
+          },
+          {
+            "id": "ec49997457cfc48c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Pivoting/Reverse Port Forwarding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reverse Port Forwarding"
+            }
+          },
+          {
+            "id": "9975ac4436fb3964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Pivoting/Proxy Chaining.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proxy Chaining"
+            }
+          },
+          {
+            "id": "f227f7c71411d4ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Pivoting/Proxychains with NXC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proxychains with NXC"
+            }
+          },
+          {
+            "id": "6d47f8c8dadf3c24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Tools/Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tools"
+            }
+          },
+          {
+            "id": "4a48eaf82212ced3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Pivoting/Pivoting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pivoting"
+            }
+          },
+          {
+            "id": "de0e196931800ca8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Tools/Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tools"
+            }
+          },
+          {
+            "id": "13124bab97bd3124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Pivoting/Pivoting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pivoting"
+            }
+          },
+          {
+            "id": "96a1e112edfd58cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Tools/Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tools"
+            }
+          },
+          {
+            "id": "e27164a532095e1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Tools/Plink.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plink"
+            }
+          },
+          {
+            "id": "428cc3126c28afb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Tools/Sshuttle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sshuttle"
+            }
+          },
+          {
+            "id": "6186f4bfa42d559a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Tools/RPIVOT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RPIVOT"
+            }
+          },
+          {
+            "id": "04c24bfeebe2bc52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Tools/Netsh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Netsh"
+            }
+          },
+          {
+            "id": "a3231bcd21bf0996",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Tools/Dnscat2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dnscat2"
+            }
+          },
+          {
+            "id": "e2042494c5596962",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Tools/Socat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Socat"
+            }
+          },
+          {
+            "id": "e1089cc3ec2b8821",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Tools/Meterpreter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meterpreter"
+            }
+          },
+          {
+            "id": "964a71b7839afc94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Tools/SocksOverRDP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SocksOverRDP"
+            }
+          },
+          {
+            "id": "50622c793c7ddbd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Pivoting/Pivoting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pivoting"
+            }
+          },
+          {
+            "id": "39607f26eb4a52c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Tools/Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tools"
+            }
+          },
+          {
+            "id": "74e4e9e4592a1fd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Windows Lateral Movement/Windows Lateral Movement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Windows Lateral Movement"
+            }
+          },
+          {
+            "id": "da8aecfc95b7b65b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Windows Lateral Movement/Kerberos Pass the Ticket/Kerberos Pass the Ticket.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kerberos Pass the Ticket"
+            }
+          },
+          {
+            "id": "1bf7d05a5d5b5d1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Lateral Movement/Windows Lateral Movement/Kerberos Pass the Ticket/Ticket Request.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ticket Request"
             }
           }
-        ]
+        ],
+        "currentTab": 38
       }
     ],
     "direction": "vertical"
@@ -94,7 +627,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Gathering/Information Gathering.md",
+                "file": "5 Lateral Movement/Windows Lateral Movement/Kerberos Pass the Ticket/Ticket Request.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +637,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Information Gathering"
+              "title": "Backlinks for Ticket Request"
             }
           },
           {
@@ -113,12 +646,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Gathering/Information Gathering.md",
+                "file": "5 Lateral Movement/Windows Lateral Movement/Kerberos Pass the Ticket/Ticket Request.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Information Gathering"
+              "title": "Outgoing links from Ticket Request"
             }
           },
           {
@@ -142,13 +675,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Gathering/Information Gathering.md",
+                "file": "5 Lateral Movement/Windows Lateral Movement/Kerberos Pass the Ticket/Ticket Request.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Information Gathering"
+              "title": "Outline of Ticket Request"
             }
           },
           {
@@ -180,11 +713,43 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "4bc427c1cb5964dd",
+  "active": "1bf7d05a5d5b5d1a",
   "lastOpenFiles": [
-    "Information Gathering/Untitled.md",
-    "Information Gathering/Information Gathering.md",
-    "Welcome.md",
-    "Information Gathering"
+    "5 Lateral Movement/Windows Lateral Movement/NTLM Pass the Hash.md",
+    "5 Lateral Movement/Windows Lateral Movement/Kerberos Pass the Ticket/Ticket Request.md",
+    "5 Lateral Movement/Windows Lateral Movement/Kerberos Pass the Ticket/Kerberos Pass the Ticket.md",
+    "5 Lateral Movement/Windows Lateral Movement/Kerberos Pass the Ticket",
+    "5 Lateral Movement/Windows Lateral Movement/Windows Lateral Movement.md",
+    "5 Lateral Movement/Tools/Tools.md",
+    "5 Lateral Movement/Pivoting/Pivoting.md",
+    "5 Lateral Movement/Tools/Untitled 1.md",
+    "5 Lateral Movement/Tools/SocksOverRDP.md",
+    "5 Lateral Movement/Tools/Meterpreter.md",
+    "5 Lateral Movement/Tools/Socat.md",
+    "5 Lateral Movement/Tools/Dnscat2.md",
+    "5 Lateral Movement/Tools/Netsh.md",
+    "5 Lateral Movement/Tools/RPIVOT.md",
+    "5 Lateral Movement/Tools/Sshuttle.md",
+    "5 Lateral Movement/Tools/Plink.md",
+    "5 Lateral Movement/Pivoting/Proxychains with NXC.md",
+    "5 Lateral Movement/Pivoting/Proxy Chaining.md",
+    "5 Lateral Movement/Pivoting/Reverse Port Forwarding.md",
+    "5 Lateral Movement/Pivoting/Dynamic Port Forwarding.md",
+    "5 Lateral Movement/Pivoting/Local Port Forwarding.md",
+    "5 Lateral Movement/Pivoting/Pivoting Recon.md",
+    "5 Lateral Movement/Linux Lateral Movement/Kerberos Pass the Ticket/Kerberos Pass the Ticket.md",
+    "5 Lateral Movement/Linux Lateral Movement/Kerberos Pass the Ticket/CCache Abuse.md",
+    "5 Lateral Movement/Linux Lateral Movement/Kerberos Pass the Ticket/Linikatz.md",
+    "5 Lateral Movement/Linux Lateral Movement/Kerberos Pass the Ticket/KeyTab Files.md",
+    "5 Lateral Movement/Linux Lateral Movement/Kerberos Pass the Ticket/CCache Files.md",
+    "5 Lateral Movement/Linux Lateral Movement/Kerberos Pass the Ticket/Untitled",
+    "5 Lateral Movement/Linux Lateral Movement/Kerberos Pass the Ticket",
+    "4 Post-Exploitation/Tools/Netcat nc",
+    "4 Post-Exploitation/Tools/John The Ripper/Untitled",
+    "4 Post-Exploitation/Tools/John The Ripper",
+    "4 Post-Exploitation/Tools/Hashcat",
+    "4 Post-Exploitation/Untitled",
+    "4 Post-Exploitation/Windows Post Exploitation/File Transfer",
+    "4 Post-Exploitation/Linux Post Exploitation/File Transfer"
   ]
 }

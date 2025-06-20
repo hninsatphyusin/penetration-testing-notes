@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1750411275911,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1750411275911,
+          "items": [],
+          "title": "1 Information Gathering"
+        },
+        {
+          "type": "group",
+          "ctime": 1750411275911,
+          "items": [],
+          "title": "2 Pre-Exploitation"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
