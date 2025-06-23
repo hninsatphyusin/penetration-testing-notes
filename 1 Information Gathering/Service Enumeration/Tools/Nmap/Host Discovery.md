@@ -13,7 +13,6 @@ sudo nmap 10.129.2.0/24 -sn -oA tnet | grep for | cut -d" " -f5
 ```shell-session
 sudo nmap 10.129.2.18 -sn -oA host 
 ```
-![[Screenshot 2024-12-29 at 2.17.34 PM.png]]
 When port scanning is disabled, the scan is done with ICMP echo request (-PE)
 But ARP scan is done faster and then it already is able to find out whether the host is alive or not 
 

@@ -6,3 +6,4 @@ This searches all ports, with a verbose output, no DNS resolution, and no ping. 
 
 ```
 nmap $IP -pall,the,ports -vv -n -Pn -sC -sV 
+```
