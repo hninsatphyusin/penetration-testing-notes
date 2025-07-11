@@ -1,6 +1,6 @@
 Logging in 
 ```shell-session
-mysql -u root -pP4SSw0rd -h 10.129.14.128
+mysql -u root -pP4SSw0rd -h 10.129.14.128 -P PORT
 ```
 might have to use --ssl-verify-server-cert=FALSE, if there is an error about ssl certifcates. 
 

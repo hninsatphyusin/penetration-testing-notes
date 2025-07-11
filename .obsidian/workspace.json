@@ -4,1719 +4,151 @@
     "type": "split",
     "children": [
       {
-        "id": "21555c8c1126997b",
+        "id": "3cd0a87c3c64edf3",
         "type": "tabs",
         "children": [
           {
-            "id": "f2b1bcf73d4eb2df",
+            "id": "fd16f6d103b63f96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Information Gathering/1 Information Gathering.md",
+                "file": "3 Exploitation/Web Exploitation/Command Injections/Filter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Information Gathering"
+              "title": "Filter"
             }
           },
           {
-            "id": "778dff1c1a47479b",
+            "id": "0637d0c36c209347",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assets/Assets.md",
+                "file": "3 Exploitation/Web Exploitation/Command Injections/Filter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assets"
+              "title": "Filter"
             }
           },
           {
-            "id": "5c67278d4013ecdf",
+            "id": "b69d78d7b1bcc4b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Exploitation/Service Exploitation/Services/Services.md",
+                "file": "3 Exploitation/Web Exploitation/Command Injections/Filter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Services"
+              "title": "Filter"
             }
           },
           {
-            "id": "231d8f100fdb6079",
+            "id": "961f70e8890e00cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Exploitation/Active Directory Attacks/PetitPotam.md",
+                "file": "3 Exploitation/Web Exploitation/Command Injections/Filter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PetitPotam"
+              "title": "Filter"
             }
           },
           {
-            "id": "5b98dd9b4df69870",
+            "id": "8a7aef6d065b2f57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Post-Exploitation/Linux Post Exploitation/File Transfer/Code Download & Upload.md",
+                "file": "3 Exploitation/Web Exploitation/Command Injections/Filter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Code Download & Upload"
+              "title": "Filter"
             }
           },
           {
-            "id": "b7db055b67ca04dd",
+            "id": "9251d6a0f1c37c1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Post-Exploitation/Windows Post Exploitation/File Transfer/File Encryption.md",
+                "file": "3 Exploitation/Web Exploitation/IDOR/Enumeration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File Encryption"
+              "title": "Enumeration"
             }
           },
           {
-            "id": "4ddad7c95f9a44e9",
+            "id": "54f162245d95525c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Post-Exploitation/Tools/John The Ripper/John The Ripper.md",
+                "file": "3 Exploitation/Web Exploitation/XXE/XXE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "John The Ripper"
+              "title": "XXE"
             }
           },
           {
-            "id": "aa6c5a018ec45ff4",
+            "id": "2e909618c166f9d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Post-Exploitation/Tools/John The Ripper/John The Ripper.md",
+                "file": "3 Exploitation/Web Exploitation/XXE/Local File Disclosure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "John The Ripper"
+              "title": "Local File Disclosure"
             }
           },
           {
-            "id": "44523fde50509cc7",
+            "id": "169580335483749d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Lateral Movement/Linux Lateral Movement/Kerberos Pass the Ticket/Kerberos Pass the Ticket.md",
+                "file": "3 Exploitation/Web Exploitation/XXE/Local File Disclosure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kerberos Pass the Ticket"
+              "title": "Local File Disclosure"
             }
           },
           {
-            "id": "3987db1a07715a63",
+            "id": "c384d747b1b88d6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Lateral Movement/Linux Lateral Movement/Kerberos Pass the Ticket/CCache Files.md",
+                "file": "3 Exploitation/Web Exploitation/XXE/Blind Data Exfiltration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CCache Files"
-            }
-          },
-          {
-            "id": "aa2c08bf5bdc1ab5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Linux Lateral Movement/Kerberos Pass the Ticket/KeyTab Files.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "KeyTab Files"
-            }
-          },
-          {
-            "id": "4a40629249d61537",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Linux Lateral Movement/Kerberos Pass the Ticket/Linikatz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linikatz"
-            }
-          },
-          {
-            "id": "985099714f57e374",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Linux Lateral Movement/Kerberos Pass the Ticket/CCache Abuse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CCache Abuse"
-            }
-          },
-          {
-            "id": "9ecdccd17f172fd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Linux Lateral Movement/Kerberos Pass the Ticket/Kerberos Pass the Ticket.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kerberos Pass the Ticket"
-            }
-          },
-          {
-            "id": "58b6fe4229c6bb18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Pivoting/Pivoting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pivoting"
-            }
-          },
-          {
-            "id": "2f26a8a4cea2ca61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Pivoting/Pivoting Recon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pivoting Recon"
-            }
-          },
-          {
-            "id": "263f5a49dfca0d86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Pivoting/Local Port Forwarding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Local Port Forwarding"
-            }
-          },
-          {
-            "id": "3d6f55721a609141",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Pivoting/Dynamic Port Forwarding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dynamic Port Forwarding"
-            }
-          },
-          {
-            "id": "ec49997457cfc48c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Pivoting/Reverse Port Forwarding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reverse Port Forwarding"
-            }
-          },
-          {
-            "id": "9975ac4436fb3964",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Pivoting/Proxy Chaining.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Proxy Chaining"
-            }
-          },
-          {
-            "id": "6d47f8c8dadf3c24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Pivoting/Tools/Tools.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tools"
-            }
-          },
-          {
-            "id": "4a48eaf82212ced3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Pivoting/Pivoting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pivoting"
-            }
-          },
-          {
-            "id": "de0e196931800ca8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Pivoting/Tools/Tools.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tools"
-            }
-          },
-          {
-            "id": "13124bab97bd3124",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Pivoting/Pivoting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pivoting"
-            }
-          },
-          {
-            "id": "96a1e112edfd58cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Pivoting/Tools/Tools.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tools"
-            }
-          },
-          {
-            "id": "e27164a532095e1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Pivoting/Tools/Plink.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plink"
-            }
-          },
-          {
-            "id": "428cc3126c28afb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Pivoting/Tools/Sshuttle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sshuttle"
-            }
-          },
-          {
-            "id": "6186f4bfa42d559a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Pivoting/Tools/RPIVOT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RPIVOT"
-            }
-          },
-          {
-            "id": "04c24bfeebe2bc52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Pivoting/Tools/Netsh.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Netsh"
-            }
-          },
-          {
-            "id": "a3231bcd21bf0996",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Pivoting/Tools/Dnscat2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dnscat2"
-            }
-          },
-          {
-            "id": "e2042494c5596962",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Pivoting/Tools/Socat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Socat"
-            }
-          },
-          {
-            "id": "e1089cc3ec2b8821",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Pivoting/Tools/Meterpreter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Meterpreter"
-            }
-          },
-          {
-            "id": "964a71b7839afc94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Pivoting/Tools/SocksOverRDP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SocksOverRDP"
-            }
-          },
-          {
-            "id": "50622c793c7ddbd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Pivoting/Pivoting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pivoting"
-            }
-          },
-          {
-            "id": "39607f26eb4a52c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Pivoting/Tools/Tools.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tools"
-            }
-          },
-          {
-            "id": "74e4e9e4592a1fd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Windows Lateral Movement/Windows Lateral Movement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Windows Lateral Movement"
-            }
-          },
-          {
-            "id": "da8aecfc95b7b65b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Windows Lateral Movement/Kerberos Pass the Ticket/Kerberos Pass the Ticket.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kerberos Pass the Ticket"
-            }
-          },
-          {
-            "id": "1bf7d05a5d5b5d1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "34aa94ff12b552ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Tools/Nmap/Nmap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nmap"
-            }
-          },
-          {
-            "id": "1838c8b8681d51f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Tools/Nmap/Port Scanning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Port Scanning"
-            }
-          },
-          {
-            "id": "4033232ef20a795f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Tools/Nmap/Saving Output.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Saving Output"
-            }
-          },
-          {
-            "id": "fb4a9b49d6cf19f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Tools/Nmap/Scripts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scripts"
-            }
-          },
-          {
-            "id": "83e1e07143b082f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Tools/Nmap/Firewall and IDS IPS Evasion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Firewall and IDS IPS Evasion"
-            }
-          },
-          {
-            "id": "5bc7b44eca87eaca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Tools/Nmap/Options.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Options"
-            }
-          },
-          {
-            "id": "44bef6e3c8999289",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Tools/Nmap/Port Scanning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Port Scanning"
-            }
-          },
-          {
-            "id": "2724603023103c3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Service/SMB/Dangerous Settings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dangerous Settings"
-            }
-          },
-          {
-            "id": "2f116d900a8c839a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Service/SMB/Interacting with Linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interacting with Linux"
-            }
-          },
-          {
-            "id": "65b466bd10e5f65f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Service/DNS/Dangerous Settings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dangerous Settings"
-            }
-          },
-          {
-            "id": "fb11b4c05f5cda92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Service/DNS/Subdomain BruteForcing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Subdomain BruteForcing"
-            }
-          },
-          {
-            "id": "8ae8e09372147e6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Service/FTP/Dangerous Settings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dangerous Settings"
-            }
-          },
-          {
-            "id": "1c0a154db52c45b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Service/MSSQL/Interacting With Windows.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interacting With Windows"
-            }
-          },
-          {
-            "id": "9f49d392064ca9f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Service/MSSQL/Dangerous Settings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dangerous Settings"
-            }
-          },
-          {
-            "id": "29e5bb06b47bb7a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Service/mySQL/Dangerous Settings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dangerous Settings"
-            }
-          },
-          {
-            "id": "e5cbf7b0a5ff7e21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Service/NFS/Dangerous Settings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dangerous Settings"
-            }
-          },
-          {
-            "id": "edfbe3992daa1313",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Service/Oracle TNS/Enumerating SID User Passwords etc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enumerating SID User Passwords etc"
-            }
-          },
-          {
-            "id": "3f34854fc4a3d588",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Service/Oracle TNS/Enumerating SID User Passwords etc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enumerating SID User Passwords etc"
-            }
-          },
-          {
-            "id": "19472b9b2260fc84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Service/SMTP/Dangerous Settings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dangerous Settings"
-            }
-          },
-          {
-            "id": "2ae2467d977e71fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/OSINT/Google Dorking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Google Dorking"
-            }
-          },
-          {
-            "id": "e5f302cb65334908",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 Vulnerability Scanning/Nessus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nessus"
-            }
-          },
-          {
-            "id": "26402fe3d698e30c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 Vulnerability Scanning/6 Vulnerability Scanning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6 Vulnerability Scanning"
-            }
-          },
-          {
-            "id": "933503cfbd6305f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 Vulnerability Scanning/CVE - Common Vulnerabilties and Exposure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CVE - Common Vulnerabilties and Exposure"
-            }
-          },
-          {
-            "id": "834a9b28eea9eea7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Post-Exploitation/Linux Post Exploitation/File Transfer/Bash Download.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bash Download"
-            }
-          },
-          {
-            "id": "f7e49c8c91dd7d98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Pre-Exploitation/Shells/Escape ShellJail.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Escape ShellJail"
-            }
-          },
-          {
-            "id": "0b10a5f30007253b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Pre-Exploitation/Shells/Web Shells.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Web Shells"
-            }
-          },
-          {
-            "id": "a26620cda2fad6b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Pre-Exploitation/Tools/MSFConsole/MSFConsole.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MSFConsole"
-            }
-          },
-          {
-            "id": "d62735df6ea3934f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Pre-Exploitation/Tools/MSFVenom/MSFVenom.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MSFVenom"
-            }
-          },
-          {
-            "id": "54fdb34fefba709a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Pre-Exploitation/Tools/MSFConsole/MSFConsole.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MSFConsole"
-            }
-          },
-          {
-            "id": "43fedca23135a37d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Post-Exploitation/Windows Post Exploitation/File Transfer/SMB Download & Upload.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SMB Download & Upload"
-            }
-          },
-          {
-            "id": "95e6f6b00b03c22a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Windows Lateral Movement/NTLM Pass the Hash.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NTLM Pass the Hash"
-            }
-          },
-          {
-            "id": "54583368a9fa785f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Windows Lateral Movement/NTLM Pass the Hash.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NTLM Pass the Hash"
-            }
-          },
-          {
-            "id": "47513c10434f771e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Linux Lateral Movement/Kerberos Pass the Ticket/Linikatz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linikatz"
-            }
-          },
-          {
-            "id": "8dcdf5374f64f621",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Post-Exploitation/Windows Post Exploitation/Privilege Escalation/NTDS.dit Attack.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NTDS.dit Attack"
-            }
-          },
-          {
-            "id": "991e41faaeca937e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Post-Exploitation/Tools/Hydra.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hydra"
-            }
-          },
-          {
-            "id": "8dde5a4d4f7ce7a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Post-Exploitation/Tools/John The Ripper/Conversion Tools.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conversion Tools"
-            }
-          },
-          {
-            "id": "6d54ad273599962a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Post-Exploitation/Tools/John The Ripper/Conversion Tools.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conversion Tools"
-            }
-          },
-          {
-            "id": "85b6c345cf00c940",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Post-Exploitation/Tools/Hashcat/custom rules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "custom rules"
-            }
-          },
-          {
-            "id": "87da7368f15ec556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Post-Exploitation/Tools/Hashcat/Hashcat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hashcat"
-            }
-          },
-          {
-            "id": "47dbfbbe30ccb0da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Post-Exploitation/Tools/John The Ripper/Conversion Tools.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conversion Tools"
-            }
-          },
-          {
-            "id": "aa46dd03443bb87b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Post-Exploitation/Linux Post Exploitation/Privilege Escalation/Credentials/Credential Cracking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Credential Cracking"
-            }
-          },
-          {
-            "id": "381fdcbce4dd6d91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Post-Exploitation/Tools/Tools.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tools"
-            }
-          },
-          {
-            "id": "86cdd513aad2030f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Post-Exploitation/Linux Post Exploitation/Privilege Escalation/Pass the Hash.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pass the Hash"
-            }
-          },
-          {
-            "id": "cc26d24a1260d589",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Windows Lateral Movement/Protected Files & Archives.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Protected Files & Archives"
-            }
-          },
-          {
-            "id": "c9f5c60d95b1ffd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Windows Lateral Movement/Kerberos Pass the Ticket/Kerberos Pass the Ticket.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kerberos Pass the Ticket"
-            }
-          },
-          {
-            "id": "632005d4b6fd516d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Linux Lateral Movement/Kerberos Pass the Ticket/CCache Files.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CCache Files"
-            }
-          },
-          {
-            "id": "037929aaf54e9c64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Active Directory Attacks/ACL Abuse/Kerberoasting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kerberoasting"
-            }
-          },
-          {
-            "id": "87f651bd993b4b6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Active Directory Attacks/Password Spraying.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Password Spraying"
-            }
-          },
-          {
-            "id": "90ae823905701657",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Post-Exploitation/Tools/CrackMapExec.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CrackMapExec"
-            }
-          },
-          {
-            "id": "ec146f3803c36170",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Post-Exploitation/Tools/CrackMapExec.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CrackMapExec"
-            }
-          },
-          {
-            "id": "063b5e6de7333263",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Post-Exploitation/Tools/John The Ripper/Conversion Tools.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conversion Tools"
-            }
-          },
-          {
-            "id": "094b59195ba8a5bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Active Directory Attacks/ASREPRoasting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ASREPRoasting"
-            }
-          },
-          {
-            "id": "0290e07b9a308608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Active Directory Attacks/Trust Relationship Abuse/Cross-Forest Trust.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cross-Forest Trust"
-            }
-          },
-          {
-            "id": "737e59d8b892c027",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Active Directory Attacks/Trust Relationship Abuse/Child -> Parent Trust/Linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linux"
-            }
-          },
-          {
-            "id": "b94cedf69fc5af2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Active Directory Attacks/Trust Relationship Abuse/Child -> Parent Trust/Linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linux"
-            }
-          },
-          {
-            "id": "c15f568b35dbc490",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Active Directory Enumeration/User Enumeration/With Access/Windows.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Windows"
-            }
-          },
-          {
-            "id": "268f949f9874f8f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Active Directory Enumeration/User Enumeration/With Access/Windows.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Windows"
-            }
-          },
-          {
-            "id": "d3f4d3f2b40dc14b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Active Directory Enumeration/User Enumeration/With Access/Windows.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Windows"
-            }
-          },
-          {
-            "id": "242f1037997e40fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Active Directory Enumeration/User Enumeration/With Access/With Access.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "With Access"
-            }
-          },
-          {
-            "id": "de28f4b6e2961bb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Active Directory Enumeration/User Enumeration/User Enumeration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "User Enumeration"
-            }
-          },
-          {
-            "id": "50a4857e70deacdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Post-Exploitation/Tools/Hydra.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hydra"
-            }
-          },
-          {
-            "id": "049e5c2235a32136",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Service/winRM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "winRM"
-            }
-          },
-          {
-            "id": "4233fc1160dfa0c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Tools/Nmap/Nmap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nmap"
-            }
-          },
-          {
-            "id": "bdde6d4395de2980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Tools/Tools.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tools"
-            }
-          },
-          {
-            "id": "9efc62750218438b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Active Directory Enumeration/ACL Enumeration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ACL Enumeration"
-            }
-          },
-          {
-            "id": "aef4a18422b3d437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Lateral Movement/Active Directory Lateral Movement/MSSQL Server.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MSSQL Server"
-            }
-          },
-          {
-            "id": "677c1431d1a89dfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Service/SMTP/SMTP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SMTP"
-            }
-          },
-          {
-            "id": "e0e0e8b85d22993c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Service/MSSQL/Interacting with Linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interacting with Linux"
-            }
-          },
-          {
-            "id": "6407370b46208ead",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Service/MSSQL/Interacting with Linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interacting with Linux"
-            }
-          },
-          {
-            "id": "822cc6401eb80aae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Service/SMB/Interacting with Windows.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interacting with Windows"
-            }
-          },
-          {
-            "id": "bfa9ad478885d977",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Post-Exploitation/Linux Post Exploitation/Privilege Escalation/Pass the Hash.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pass the Hash"
-            }
-          },
-          {
-            "id": "6cf028c6a5175033",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Active Directory Enumeration/Security Controls Enumeration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Security Controls Enumeration"
-            }
-          },
-          {
-            "id": "5d70cb9bde9f977c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Active Directory Attacks/Active Directory Attacks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Active Directory Attacks"
-            }
-          },
-          {
-            "id": "18678cc26fd58692",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Tools/Nmap/Port Scanning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Port Scanning"
-            }
-          },
-          {
-            "id": "320987154c4722a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Service/DNS/DNS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DNS"
-            }
-          },
-          {
-            "id": "0694bbf533606575",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Service/MSSQL/Interacting with Linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interacting with Linux"
-            }
-          },
-          {
-            "id": "23b572a8bccb04fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Service Enumeration/Service/MSSQL/Interacting with Linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interacting with Linux"
-            }
-          },
-          {
-            "id": "1e8703f90b319392",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Active Directory Enumeration/User Enumeration/Without Access.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Without Access"
-            }
-          },
-          {
-            "id": "d7d9c9498f2dd25f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Post-Exploitation/Windows Post Exploitation/File Transfer/PowerShell Download & Upload.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PowerShell Download & Upload"
-            }
-          },
-          {
-            "id": "1212a9490312710e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Active Directory Attacks/ACL Abuse/Kerberoasting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kerberoasting"
-            }
-          },
-          {
-            "id": "0c6c034c9804c9cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Active Directory Attacks/ACL Abuse/ACL Abuse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ACL Abuse"
-            }
-          },
-          {
-            "id": "333d21041776d533",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Active Directory Attacks/Misconfigurations/Sniffing LDAP Credentials.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sniffing LDAP Credentials"
-            }
-          },
-          {
-            "id": "ff3324b73c945315",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Active Directory Attacks/Trust Relationship Abuse/Trust Relationship Abuse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trust Relationship Abuse"
-            }
-          },
-          {
-            "id": "60178d7657f0ac19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Active Directory Attacks/PrintNightmare.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PrintNightmare"
+              "title": "Blind Data Exfiltration"
             }
           }
         ],
-        "currentTab": 121
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -1773,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ab5a703f38f87082",
@@ -1875,45 +307,48 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "60178d7657f0ac19",
+  "active": "c384d747b1b88d6b",
   "lastOpenFiles": [
-    "3 Exploitation/Active Directory Attacks/SMB Hash Stealing.md",
-    "3 Exploitation/Active Directory Attacks/noPac.md",
-    "3 Exploitation/Active Directory Attacks/Network Poisoning.md",
-    "3 Exploitation/Active Directory Attacks/Group Policy Preferences Passwords.md",
-    "3 Exploitation/Active Directory Attacks/ASREPRoasting.md",
-    "3 Exploitation/Active Directory Attacks/DCSync.md",
-    "3 Exploitation/Active Directory Attacks/Trust Relationship Abuse/Cross-Forest Trust.md",
-    "3 Exploitation/Active Directory Attacks/Trust Relationship Abuse/Child -> Parent Trust/Windows.md",
-    "3 Exploitation/Active Directory Attacks/Trust Relationship Abuse/Child -> Parent Trust/Linux.md",
-    "3 Exploitation/Active Directory Attacks/Trust Relationship Abuse/Child -> Parent Trust/Child -> Parent Trust.md",
-    "3 Exploitation/Active Directory Attacks/Trust Relationship Abuse/Trust Relationship Abuse.md",
-    "3 Exploitation/Active Directory Attacks/Misconfigurations/Sniffing LDAP Credentials.md",
-    "3 Exploitation/Active Directory Attacks/Misconfigurations/PrivExchange.md",
-    "3 Exploitation/Active Directory Attacks/Misconfigurations/Printer Bug.md",
-    "3 Exploitation/Active Directory Attacks/Misconfigurations/Password Not Required.md",
-    "3 Exploitation/Active Directory Attacks/Misconfigurations/MS01-068.md",
-    "3 Exploitation/Active Directory Attacks/Misconfigurations/Exchange Related Group Membership.md",
-    "3 Exploitation/Active Directory Attacks/Misconfigurations/Enumerating scripts.md",
-    "3 Exploitation/Active Directory Attacks/Misconfigurations/Enumerating DNS Records.md",
-    "3 Exploitation/Active Directory Attacks/Misconfigurations/Enumerating Description Fields.md",
-    "3 Exploitation/Active Directory Attacks/Kerberoasting/Windows.md",
-    "3 Exploitation/Active Directory Attacks/Kerberoasting/Linux.md",
-    "3 Exploitation/Active Directory Attacks/Kerberoasting/Kerberoasting.md",
-    "3 Exploitation/Active Directory Attacks/ACL Abuse/ACL Abuse.md",
-    "3 Exploitation/Active Directory Attacks/ACL Abuse/Kerberoasting.md",
-    "3 Exploitation/Active Directory Attacks/ACL Abuse/Force Changing Password.md",
-    "1 Information Gathering/Active Directory Enumeration/User Enumeration/With Access",
-    "3 Exploitation/Active Directory Attacks/Trust Relationship Abuse/Child -> Parent Trust",
-    "4 Post-Exploitation/Linux Post Exploitation/Privilege Escalation/Credentials",
-    "4 Post-Exploitation/Linux Post Exploitation/Privilege Escalation",
-    "4 Post-Exploitation/Windows Post Exploitation/Privilege Escalation",
+    "3 Exploitation/Web Exploitation/XXE/Advanced File Disclosure.md",
+    "3 Exploitation/Web Exploitation/XXE/Blind Data Exfiltration.md",
+    "3 Exploitation/Web Exploitation/XXE/XXE.md",
+    "3 Exploitation/Web Exploitation/XXE.md",
+    "3 Exploitation/Web Exploitation/XXE/Local File Disclosure.md",
+    "3 Exploitation/Web Exploitation/XXE",
+    "3 Exploitation/Web Exploitation/IDOR/Chaining.md",
+    "3 Exploitation/Web Exploitation/XXE Injection.md",
+    "3 Exploitation/Web Exploitation/IDOR/Insecure APIs.md",
+    "3 Exploitation/Web Exploitation/IDOR/Bypassing Encoded References.md",
+    "3 Exploitation/Web Exploitation/IDOR/Enumeration.md",
+    "3 Exploitation/Web Exploitation/IDOR/IDOR.md",
+    "3 Exploitation/Web Exploitation/IDOR",
+    "3 Exploitation/Web Exploitation/HTTP Verb Tampering.md",
+    "3 Exploitation/Web Exploitation/Command Injections/Filter.md",
+    "3 Exploitation/Web Exploitation/Command Injections/Command Injections.md",
+    "3 Exploitation/Web Exploitation/Command Injections",
+    "3 Exploitation/Web Exploitation/File Upload/File Upload.md",
+    "3 Exploitation/Web Exploitation/Local File Inclusion/Remote Code Execution/File Upload.md",
+    "3 Exploitation/Web Exploitation/File Upload/web shells.md",
+    "1 Information Gathering/Web Enumeration/Ffuf/Basic Fuzzing.md",
+    "1 Information Gathering/Web Enumeration/Enumeration Methodology.md",
+    "3 Exploitation/Web Exploitation/Local File Inclusion/Filter Bypass.md",
+    "3 Exploitation/Web Exploitation/Local File Inclusion/Remote Code Execution/PHP Wrapper.md",
+    "3 Exploitation/Web Exploitation/Local File Inclusion/Remote Code Execution/Remote Code Execution.md",
+    "3 Exploitation/Web Exploitation/Local File Inclusion/Remote Code Execution/RFI.md",
+    "Untitled 1/Untitled 1.md",
+    "3 Exploitation/Web Exploitation/Local File Inclusion/Local File Inclusion.md",
+    "3 Exploitation/Web Exploitation/XSS/Phishing.md",
+    "Assets/Pasted image 20250705102934.png",
+    "3 Exploitation/Web Exploitation/File Upload",
+    "Untitled 1",
+    "3 Exploitation/Web Exploitation/Local File Inclusion/Remote Code Execution",
+    "3 Exploitation/Web Exploitation/Local File Inclusion",
+    "3 Exploitation/Web Exploitation/XSS",
+    "3 Exploitation/Web Exploitation/SQL Injection/SQLMap",
+    "3 Exploitation/Web Exploitation/SQL Injection",
+    "Assets/Screenshot 2025-06-25 at 2.46.23 PM.png",
+    "Assets/Screenshot 2025-06-24 at 1.16.35 PM.png",
     "Assets/Screenshot 2025-05-05 at 2.52.03 PM.png",
-    "7 Report",
-    "Assets/Pasted image 20250205123147.png",
-    "6 Vulnerability Scanning",
-    "1 Information Gathering/OSINT",
-    "1 Information Gathering/Service Enumeration/Service/Virtual Hosts",
-    "1 Information Gathering/Service Enumeration/Service/SMTP"
+    "Assets/Pasted image 20250205123147.png"
   ]
 }

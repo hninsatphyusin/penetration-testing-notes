@@ -22,12 +22,12 @@ then we can do some password spraying with crackmapexec on smb
 
 ## LDAP Enumeration
 ```
-nmap -p 389 --script ldap-search --script-args 'ldap.username="cn=ldaptest,cn=users,dc=cqure,dc=net",ldap.password=ldaptest,ldap.qfilter=users,ldap.attrib=sAMAccountName' 10.10.10.161
+nmap -p 389 --script ldap-search --script-args 'ldap.username="cn=ldaptest,cn=users,dc=cqure,dc=net",ldap.password=ldaptest,ldap.qfilter=users,ldap.attrib=sAMAccountName' 10.10.11.42
 ```
 
 To list accounts, groups and computers from LDAP Server
 ```
-enum4linux <IP_ADDRESS> | egrep "Account|Domain|Lockout|group"
+enum4linux 10.10.11.42 | egrep "Account|Domain|Lockout|group"
 ```
 
 ### LDAPSearch
