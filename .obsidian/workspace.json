@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Exploitation/Web Exploitation/XXE/Blind Data Exfiltration.md",
+                "file": "3 Exploitation/Web Exploitation/XXE/Local File Disclosure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blind Data Exfiltration"
+              "title": "Local File Disclosure"
             }
           }
         ],
@@ -307,13 +307,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "c384d747b1b88d6b",
+  "active": "4bc427c1cb5964dd",
   "lastOpenFiles": [
     "3 Exploitation/Web Exploitation/XXE/Advanced File Disclosure.md",
+    "3 Exploitation/Web Exploitation/XXE/Local File Disclosure.md",
     "3 Exploitation/Web Exploitation/XXE/Blind Data Exfiltration.md",
     "3 Exploitation/Web Exploitation/XXE/XXE.md",
     "3 Exploitation/Web Exploitation/XXE.md",
-    "3 Exploitation/Web Exploitation/XXE/Local File Disclosure.md",
     "3 Exploitation/Web Exploitation/XXE",
     "3 Exploitation/Web Exploitation/IDOR/Chaining.md",
     "3 Exploitation/Web Exploitation/XXE Injection.md",
