@@ -139,16 +139,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Exploitation/Web Exploitation/XXE/Local File Disclosure.md",
+                "file": "3 Exploitation/Application Exploitation/Wordpress/Wordpress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Local File Disclosure"
+              "title": "Wordpress"
+            }
+          },
+          {
+            "id": "25e7b44177af62ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Information Gathering/Application Enumeration/Wordpress/Username Enumeration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Username Enumeration"
+            }
+          },
+          {
+            "id": "f1ac1291aeeb004e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Information Gathering/Application Enumeration/Wordpress/Username Enumeration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Username Enumeration"
+            }
+          },
+          {
+            "id": "4a4df01420df3154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Information Gathering/Application Enumeration/Wordpress/Username Enumeration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Username Enumeration"
+            }
+          },
+          {
+            "id": "0488eeac9edeb687",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Information Gathering/Application Enumeration/Wordpress/Username Enumeration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Username Enumeration"
+            }
+          },
+          {
+            "id": "73d05c2ead81d31e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Information Gathering/Application Enumeration/Joomla.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Joomla"
+            }
+          },
+          {
+            "id": "21ec558fdbe7bc61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Exploitation/Application Exploitation/Joomla/Brute Force Login.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brute Force Login"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -307,10 +391,25 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "4bc427c1cb5964dd",
+  "active": "21ec558fdbe7bc61",
   "lastOpenFiles": [
-    "3 Exploitation/Web Exploitation/XXE/Advanced File Disclosure.md",
+    "3 Exploitation/Application Exploitation/Joomla/Joomla.md",
+    "1 Information Gathering/Application Enumeration/Joomla.md",
+    "3 Exploitation/Application Exploitation/Joomla/Brute Force Login.md",
+    "3 Exploitation/Application Exploitation/Joomla",
+    "1 Information Gathering/Application Enumeration/Wordpress/Wordpress.md",
+    "1 Information Gathering/Application Enumeration/Wordpress/Username Enumeration.md",
+    "3 Exploitation/Application Exploitation/Wordpress/Shell.md",
+    "3 Exploitation/Application Exploitation/Wordpress/Login BruteForce.md",
+    "1 Information Gathering/Application Enumeration/Wordpress/Shell.md",
+    "3 Exploitation/Application Exploitation/Wordpress/Wordpress.md",
+    "1 Information Gathering/Application Enumeration/Wordpress",
+    "1 Information Gathering/Application Enumeration/Wordpress.md",
+    "1 Information Gathering/Service Enumeration/Tools/Nmap/Web Discovery.md",
+    "3 Exploitation/Application Exploitation/Wordpress",
     "3 Exploitation/Web Exploitation/XXE/Local File Disclosure.md",
+    "Untitled/Untitled.md",
+    "3 Exploitation/Web Exploitation/XXE/Advanced File Disclosure.md",
     "3 Exploitation/Web Exploitation/XXE/Blind Data Exfiltration.md",
     "3 Exploitation/Web Exploitation/XXE/XXE.md",
     "3 Exploitation/Web Exploitation/XXE.md",
@@ -326,26 +425,11 @@
     "3 Exploitation/Web Exploitation/Command Injections/Filter.md",
     "3 Exploitation/Web Exploitation/Command Injections/Command Injections.md",
     "3 Exploitation/Web Exploitation/Command Injections",
-    "3 Exploitation/Web Exploitation/File Upload/File Upload.md",
-    "3 Exploitation/Web Exploitation/Local File Inclusion/Remote Code Execution/File Upload.md",
-    "3 Exploitation/Web Exploitation/File Upload/web shells.md",
-    "1 Information Gathering/Web Enumeration/Ffuf/Basic Fuzzing.md",
-    "1 Information Gathering/Web Enumeration/Enumeration Methodology.md",
-    "3 Exploitation/Web Exploitation/Local File Inclusion/Filter Bypass.md",
-    "3 Exploitation/Web Exploitation/Local File Inclusion/Remote Code Execution/PHP Wrapper.md",
-    "3 Exploitation/Web Exploitation/Local File Inclusion/Remote Code Execution/Remote Code Execution.md",
-    "3 Exploitation/Web Exploitation/Local File Inclusion/Remote Code Execution/RFI.md",
-    "Untitled 1/Untitled 1.md",
-    "3 Exploitation/Web Exploitation/Local File Inclusion/Local File Inclusion.md",
-    "3 Exploitation/Web Exploitation/XSS/Phishing.md",
     "Assets/Pasted image 20250705102934.png",
     "3 Exploitation/Web Exploitation/File Upload",
     "Untitled 1",
     "3 Exploitation/Web Exploitation/Local File Inclusion/Remote Code Execution",
     "3 Exploitation/Web Exploitation/Local File Inclusion",
-    "3 Exploitation/Web Exploitation/XSS",
-    "3 Exploitation/Web Exploitation/SQL Injection/SQLMap",
-    "3 Exploitation/Web Exploitation/SQL Injection",
     "Assets/Screenshot 2025-06-25 at 2.46.23 PM.png",
     "Assets/Screenshot 2025-06-24 at 1.16.35 PM.png",
     "Assets/Screenshot 2025-05-05 at 2.52.03 PM.png",
