@@ -223,16 +223,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Exploitation/Application Exploitation/Joomla/Brute Force Login.md",
+                "file": "3 Exploitation/Application Exploitation/Tomcat/WAR File Upload.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brute Force Login"
+              "title": "WAR File Upload"
+            }
+          },
+          {
+            "id": "992557f370dac13b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Exploitation/Application Exploitation/Drupal/PHP Filter Module.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PHP Filter Module"
+            }
+          },
+          {
+            "id": "cdd455dfa4b4c6f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -391,45 +419,45 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "21ec558fdbe7bc61",
+  "active": "cdd455dfa4b4c6f7",
   "lastOpenFiles": [
-    "3 Exploitation/Application Exploitation/Joomla/Joomla.md",
-    "1 Information Gathering/Application Enumeration/Joomla.md",
+    "3 Exploitation/Application Exploitation/Drupal/PHP Filter Module.md",
+    "README.md",
+    "3 Exploitation/Application Exploitation/Drupal/Drupalgeddon.md",
+    "3 Exploitation/Application Exploitation/Drupal/backdoor module.md",
+    "3 Exploitation/Application Exploitation/Joomla/Shell.md",
     "3 Exploitation/Application Exploitation/Joomla/Brute Force Login.md",
+    "3 Exploitation/Application Exploitation/Tomcat/WAR File Upload.md",
+    "3 Exploitation/Application Exploitation/Tomcat/Login Brute Force.md",
+    "3 Exploitation/Application Exploitation/Tomcat/GhostCat.md",
+    "3 Exploitation/Application Exploitation/Wordpress/Shell.md",
+    "3 Exploitation/Application Exploitation/Wordpress/Login BruteForce.md",
+    "3 Exploitation/Application Exploitation/Wordpress/Wordpress.md",
+    "3 Exploitation/Application Exploitation/Tomcat/Tomcat.md",
+    "3 Exploitation/Application Exploitation/Untitled.md",
+    "3 Exploitation/Application Exploitation/Tomcat",
+    "1 Information Gathering/Application Enumeration/Tomcat.md",
+    "3 Exploitation/Application Exploitation/Drupal/Drupal.md",
+    "1 Information Gathering/Application Enumeration/Drupal.md",
+    "3 Exploitation/Application Exploitation/Drupal",
+    "1 Information Gathering/Application Enumeration/Joomla.md",
+    "3 Exploitation/Application Exploitation/Joomla/Joomla.md",
     "3 Exploitation/Application Exploitation/Joomla",
     "1 Information Gathering/Application Enumeration/Wordpress/Wordpress.md",
     "1 Information Gathering/Application Enumeration/Wordpress/Username Enumeration.md",
-    "3 Exploitation/Application Exploitation/Wordpress/Shell.md",
-    "3 Exploitation/Application Exploitation/Wordpress/Login BruteForce.md",
     "1 Information Gathering/Application Enumeration/Wordpress/Shell.md",
-    "3 Exploitation/Application Exploitation/Wordpress/Wordpress.md",
     "1 Information Gathering/Application Enumeration/Wordpress",
     "1 Information Gathering/Application Enumeration/Wordpress.md",
     "1 Information Gathering/Service Enumeration/Tools/Nmap/Web Discovery.md",
     "3 Exploitation/Application Exploitation/Wordpress",
     "3 Exploitation/Web Exploitation/XXE/Local File Disclosure.md",
     "Untitled/Untitled.md",
-    "3 Exploitation/Web Exploitation/XXE/Advanced File Disclosure.md",
-    "3 Exploitation/Web Exploitation/XXE/Blind Data Exfiltration.md",
-    "3 Exploitation/Web Exploitation/XXE/XXE.md",
-    "3 Exploitation/Web Exploitation/XXE.md",
     "3 Exploitation/Web Exploitation/XXE",
-    "3 Exploitation/Web Exploitation/IDOR/Chaining.md",
-    "3 Exploitation/Web Exploitation/XXE Injection.md",
-    "3 Exploitation/Web Exploitation/IDOR/Insecure APIs.md",
-    "3 Exploitation/Web Exploitation/IDOR/Bypassing Encoded References.md",
-    "3 Exploitation/Web Exploitation/IDOR/Enumeration.md",
-    "3 Exploitation/Web Exploitation/IDOR/IDOR.md",
     "3 Exploitation/Web Exploitation/IDOR",
-    "3 Exploitation/Web Exploitation/HTTP Verb Tampering.md",
-    "3 Exploitation/Web Exploitation/Command Injections/Filter.md",
-    "3 Exploitation/Web Exploitation/Command Injections/Command Injections.md",
     "3 Exploitation/Web Exploitation/Command Injections",
     "Assets/Pasted image 20250705102934.png",
     "3 Exploitation/Web Exploitation/File Upload",
     "Untitled 1",
-    "3 Exploitation/Web Exploitation/Local File Inclusion/Remote Code Execution",
-    "3 Exploitation/Web Exploitation/Local File Inclusion",
     "Assets/Screenshot 2025-06-25 at 2.46.23 PM.png",
     "Assets/Screenshot 2025-06-24 at 1.16.35 PM.png",
     "Assets/Screenshot 2025-05-05 at 2.52.03 PM.png",
