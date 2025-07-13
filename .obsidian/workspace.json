@@ -13,15 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Information Gathering/Application Enumeration/osTicket.md",
+                "file": "1 Information Gathering/Application Enumeration/Tomcat/Tomcat CGI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "osTicket"
+              "title": "Tomcat CGI"
+            }
+          },
+          {
+            "id": "6df95526413bccfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Information Gathering/Application Enumeration/Tomcat/Tomcat CGI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tomcat CGI"
+            }
+          },
+          {
+            "id": "16aedcd3d9c04315",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Information Gathering/Application Enumeration/Tomcat/Tomcat CGI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tomcat CGI"
+            }
+          },
+          {
+            "id": "4f251601933f80cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Information Gathering/Application Enumeration/Tomcat/Tomcat CGI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tomcat CGI"
+            }
+          },
+          {
+            "id": "4e3df46f06f10104",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Information Gathering/Application Enumeration/Tomcat/Tomcat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tomcat"
+            }
+          },
+          {
+            "id": "85926b3b30798917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Exploitation/Application Exploitation/Thick Client Applications/Thick Client Applications.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thick Client Applications"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -180,10 +251,29 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "6c8b67f57499288e",
+  "active": "85926b3b30798917",
   "lastOpenFiles": [
-    "3 Exploitation/Application Exploitation/osTicket.md",
+    "3 Exploitation/Application Exploitation/Shellshock.md",
+    "3 Exploitation/Application Exploitation/Thick Client Applications/Thick Client Applications.md",
+    "3 Exploitation/Application Exploitation/Thick Client Applications",
+    "1 Information Gathering/Application Enumeration/CGI Scripts.md",
+    "3 Exploitation/Application Exploitation/Tomcat Apache/CGI.md",
+    "1 Information Gathering/Application Enumeration/Tomcat/Tomcat CGI.md",
+    "1 Information Gathering/Service Enumeration/Tools/Nmap/Port Scanning.md",
+    "1 Information Gathering/Service Enumeration/Tools/Nmap/Host Discovery.md",
+    "1 Information Gathering/Service Enumeration/Tools/Nmap/Nmap.md",
+    "1 Information Gathering/Application Enumeration/Tomcat/Tomcat.md",
+    "1 Information Gathering/Application Enumeration/Tomcat.md",
+    "1 Information Gathering/Application Enumeration/Splunk.md",
+    "1 Information Gathering/Application Enumeration/Tomcat",
+    "README.md",
+    "3 Exploitation/Application Exploitation/GitLab/XCE.md",
+    "3 Exploitation/Application Exploitation/GitLab/Username Enumeration.md",
+    "3 Exploitation/Application Exploitation/GitLab/GitLab.md",
+    "1 Information Gathering/Application Enumeration/GitLab.md",
+    "3 Exploitation/Application Exploitation/GitLab",
     "1 Information Gathering/Application Enumeration/osTicket.md",
+    "3 Exploitation/Application Exploitation/osTicket.md",
     "3 Exploitation/Web Exploitation/Command Injections/Filter.md",
     "3 Exploitation/Web Exploitation/IDOR/Enumeration.md",
     "3 Exploitation/Web Exploitation/XXE/XXE.md",
@@ -192,33 +282,14 @@
     "1 Information Gathering/Application Enumeration/Wordpress/Username Enumeration.md",
     "1 Information Gathering/Application Enumeration/Joomla.md",
     "3 Exploitation/Application Exploitation/Tomcat Apache/WAR File Upload.md",
-    "3 Exploitation/Application Exploitation/Drupal/PHP Filter Module.md",
-    "3 Exploitation/Application Exploitation/Jenkins/Script console.md",
-    "3 Exploitation/Application Exploitation/PRTG Network Monitor.md",
-    "3 Exploitation/Application Exploitation/Splunk.md",
-    "1 Information Gathering/Application Enumeration/Splunk.md",
-    "Docker Config.md",
-    "3 Exploitation/Application Exploitation/Tomcat Apache/Tomcat Apache.md",
-    "3 Exploitation/Application Exploitation/Jenkins/Jenkins.md",
     "3 Exploitation/Application Exploitation/Jenkins",
-    "README.md",
-    "3 Exploitation/Application Exploitation/Drupal/Drupalgeddon.md",
-    "3 Exploitation/Application Exploitation/Drupal/backdoor module.md",
-    "3 Exploitation/Application Exploitation/Joomla/Shell.md",
-    "3 Exploitation/Application Exploitation/Joomla/Brute Force Login.md",
-    "3 Exploitation/Application Exploitation/Tomcat Apache/Login Brute Force.md",
-    "3 Exploitation/Application Exploitation/Tomcat Apache/GhostCat.md",
-    "3 Exploitation/Application Exploitation/Wordpress/Shell.md",
     "3 Exploitation/Application Exploitation/Tomcat Apache",
     "3 Exploitation/Application Exploitation/Drupal",
     "3 Exploitation/Application Exploitation/Joomla",
     "1 Information Gathering/Application Enumeration/Wordpress",
     "3 Exploitation/Application Exploitation/Wordpress",
     "3 Exploitation/Web Exploitation/XXE",
-    "3 Exploitation/Web Exploitation/IDOR",
-    "3 Exploitation/Web Exploitation/Command Injections",
     "Assets/Pasted image 20250705102934.png",
-    "3 Exploitation/Web Exploitation/File Upload",
     "Assets/Screenshot 2025-06-25 at 2.46.23 PM.png",
     "Assets/Screenshot 2025-06-24 at 1.16.35 PM.png",
     "Assets/Screenshot 2025-05-05 at 2.52.03 PM.png",
