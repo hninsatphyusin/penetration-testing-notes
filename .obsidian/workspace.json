@@ -4,263 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3cd0a87c3c64edf3",
+        "id": "cb27f3374b76b2b0",
         "type": "tabs",
         "children": [
           {
-            "id": "fd16f6d103b63f96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Web Exploitation/Command Injections/Filter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Filter"
-            }
-          },
-          {
-            "id": "0637d0c36c209347",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Web Exploitation/Command Injections/Filter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Filter"
-            }
-          },
-          {
-            "id": "b69d78d7b1bcc4b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Web Exploitation/Command Injections/Filter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Filter"
-            }
-          },
-          {
-            "id": "961f70e8890e00cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Web Exploitation/Command Injections/Filter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Filter"
-            }
-          },
-          {
-            "id": "8a7aef6d065b2f57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Web Exploitation/Command Injections/Filter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Filter"
-            }
-          },
-          {
-            "id": "9251d6a0f1c37c1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Web Exploitation/IDOR/Enumeration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enumeration"
-            }
-          },
-          {
-            "id": "54f162245d95525c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Web Exploitation/XXE/XXE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "XXE"
-            }
-          },
-          {
-            "id": "2e909618c166f9d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Web Exploitation/XXE/Local File Disclosure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Local File Disclosure"
-            }
-          },
-          {
-            "id": "169580335483749d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Web Exploitation/XXE/Local File Disclosure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Local File Disclosure"
-            }
-          },
-          {
-            "id": "c384d747b1b88d6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Application Exploitation/Wordpress/Wordpress.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wordpress"
-            }
-          },
-          {
-            "id": "25e7b44177af62ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Application Enumeration/Wordpress/Username Enumeration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Username Enumeration"
-            }
-          },
-          {
-            "id": "f1ac1291aeeb004e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Application Enumeration/Wordpress/Username Enumeration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Username Enumeration"
-            }
-          },
-          {
-            "id": "4a4df01420df3154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Application Enumeration/Wordpress/Username Enumeration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Username Enumeration"
-            }
-          },
-          {
-            "id": "0488eeac9edeb687",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Application Enumeration/Wordpress/Username Enumeration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Username Enumeration"
-            }
-          },
-          {
-            "id": "73d05c2ead81d31e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Information Gathering/Application Enumeration/Joomla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Joomla"
-            }
-          },
-          {
-            "id": "21ec558fdbe7bc61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Application Exploitation/Tomcat Apache/WAR File Upload.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WAR File Upload"
-            }
-          },
-          {
-            "id": "992557f370dac13b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Application Exploitation/Drupal/PHP Filter Module.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PHP Filter Module"
-            }
-          },
-          {
-            "id": "cdd455dfa4b4c6f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Exploitation/Application Exploitation/Jenkins/Script console.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Script console"
-            }
-          },
-          {
-            "id": "3eb5664ecbc1c943",
+            "id": "6c8b67f57499288e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -273,8 +21,7 @@
               "title": "osTicket"
             }
           }
-        ],
-        "currentTab": 18
+        ]
       }
     ],
     "direction": "vertical"
@@ -433,21 +180,28 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3eb5664ecbc1c943",
+  "active": "6c8b67f57499288e",
   "lastOpenFiles": [
     "3 Exploitation/Application Exploitation/osTicket.md",
     "1 Information Gathering/Application Enumeration/osTicket.md",
+    "3 Exploitation/Web Exploitation/Command Injections/Filter.md",
+    "3 Exploitation/Web Exploitation/IDOR/Enumeration.md",
+    "3 Exploitation/Web Exploitation/XXE/XXE.md",
+    "3 Exploitation/Web Exploitation/XXE/Local File Disclosure.md",
+    "3 Exploitation/Application Exploitation/Wordpress/Wordpress.md",
+    "1 Information Gathering/Application Enumeration/Wordpress/Username Enumeration.md",
+    "1 Information Gathering/Application Enumeration/Joomla.md",
+    "3 Exploitation/Application Exploitation/Tomcat Apache/WAR File Upload.md",
+    "3 Exploitation/Application Exploitation/Drupal/PHP Filter Module.md",
+    "3 Exploitation/Application Exploitation/Jenkins/Script console.md",
     "3 Exploitation/Application Exploitation/PRTG Network Monitor.md",
     "3 Exploitation/Application Exploitation/Splunk.md",
     "1 Information Gathering/Application Enumeration/Splunk.md",
     "Docker Config.md",
     "3 Exploitation/Application Exploitation/Tomcat Apache/Tomcat Apache.md",
-    "3 Exploitation/Application Exploitation/Jenkins/Script console.md",
     "3 Exploitation/Application Exploitation/Jenkins/Jenkins.md",
-    "3 Exploitation/Application Exploitation/Tomcat Apache/WAR File Upload.md",
     "3 Exploitation/Application Exploitation/Jenkins",
     "README.md",
-    "3 Exploitation/Application Exploitation/Drupal/PHP Filter Module.md",
     "3 Exploitation/Application Exploitation/Drupal/Drupalgeddon.md",
     "3 Exploitation/Application Exploitation/Drupal/backdoor module.md",
     "3 Exploitation/Application Exploitation/Joomla/Shell.md",
@@ -455,15 +209,8 @@
     "3 Exploitation/Application Exploitation/Tomcat Apache/Login Brute Force.md",
     "3 Exploitation/Application Exploitation/Tomcat Apache/GhostCat.md",
     "3 Exploitation/Application Exploitation/Wordpress/Shell.md",
-    "3 Exploitation/Application Exploitation/Wordpress/Login BruteForce.md",
-    "3 Exploitation/Application Exploitation/Wordpress/Wordpress.md",
     "3 Exploitation/Application Exploitation/Tomcat Apache",
-    "1 Information Gathering/Application Enumeration/Tomcat.md",
-    "3 Exploitation/Application Exploitation/Drupal/Drupal.md",
-    "1 Information Gathering/Application Enumeration/Drupal.md",
     "3 Exploitation/Application Exploitation/Drupal",
-    "1 Information Gathering/Application Enumeration/Joomla.md",
-    "3 Exploitation/Application Exploitation/Joomla/Joomla.md",
     "3 Exploitation/Application Exploitation/Joomla",
     "1 Information Gathering/Application Enumeration/Wordpress",
     "3 Exploitation/Application Exploitation/Wordpress",
