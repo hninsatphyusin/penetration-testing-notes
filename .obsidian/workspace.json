@@ -265,12 +265,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Exploitation/Application Exploitation/Tomcat Apache/Tomcat Apache.md",
+                "file": "1 Information Gathering/Application Enumeration/osTicket.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tomcat Apache"
+              "title": "osTicket"
             }
           }
         ],
@@ -435,11 +435,17 @@
   },
   "active": "3eb5664ecbc1c943",
   "lastOpenFiles": [
+    "3 Exploitation/Application Exploitation/osTicket.md",
+    "1 Information Gathering/Application Enumeration/osTicket.md",
+    "3 Exploitation/Application Exploitation/PRTG Network Monitor.md",
+    "3 Exploitation/Application Exploitation/Splunk.md",
+    "1 Information Gathering/Application Enumeration/Splunk.md",
+    "Docker Config.md",
+    "3 Exploitation/Application Exploitation/Tomcat Apache/Tomcat Apache.md",
     "3 Exploitation/Application Exploitation/Jenkins/Script console.md",
     "3 Exploitation/Application Exploitation/Jenkins/Jenkins.md",
     "3 Exploitation/Application Exploitation/Tomcat Apache/WAR File Upload.md",
     "3 Exploitation/Application Exploitation/Jenkins",
-    "Docker Config.md",
     "README.md",
     "3 Exploitation/Application Exploitation/Drupal/PHP Filter Module.md",
     "3 Exploitation/Application Exploitation/Drupal/Drupalgeddon.md",
@@ -451,8 +457,6 @@
     "3 Exploitation/Application Exploitation/Wordpress/Shell.md",
     "3 Exploitation/Application Exploitation/Wordpress/Login BruteForce.md",
     "3 Exploitation/Application Exploitation/Wordpress/Wordpress.md",
-    "3 Exploitation/Application Exploitation/Tomcat Apache/Tomcat Apache.md",
-    "3 Exploitation/Application Exploitation/Untitled.md",
     "3 Exploitation/Application Exploitation/Tomcat Apache",
     "1 Information Gathering/Application Enumeration/Tomcat.md",
     "3 Exploitation/Application Exploitation/Drupal/Drupal.md",
@@ -461,11 +465,7 @@
     "1 Information Gathering/Application Enumeration/Joomla.md",
     "3 Exploitation/Application Exploitation/Joomla/Joomla.md",
     "3 Exploitation/Application Exploitation/Joomla",
-    "1 Information Gathering/Application Enumeration/Wordpress/Wordpress.md",
-    "1 Information Gathering/Application Enumeration/Wordpress/Username Enumeration.md",
-    "1 Information Gathering/Application Enumeration/Wordpress/Shell.md",
     "1 Information Gathering/Application Enumeration/Wordpress",
-    "1 Information Gathering/Application Enumeration/Wordpress.md",
     "3 Exploitation/Application Exploitation/Wordpress",
     "3 Exploitation/Web Exploitation/XXE",
     "3 Exploitation/Web Exploitation/IDOR",

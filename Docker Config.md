@@ -7,7 +7,7 @@ sudo docker image ls
 
 Spinning up a new container
 ```
-sudo docker run -it -v /mnt/kali:/host --net=host kali-1 /bin/bash
+sudo docker run -it -v /mnt/kali:/host --net=host --cap-add=NET_RAW --cap-add=NET_ADMIN kali-1 /bin/bash
 ```
 
 checking containers 
